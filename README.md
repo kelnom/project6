@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [x] User receive notifcation when it is time to post
+- [ ] User receive notifcation when it is time to post
 - [x] Users can make comments and view comments in posts	
 
 The following **additional** features are implemented:
